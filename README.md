@@ -7,7 +7,7 @@ This data analysis project, completed as part of the Codebasics Resume Project C
 LIVE Dashboard-[https://app.powerbi.com/view?r=eyJrIjoiZWQ0NzI4ZjEtYjY2NS00MGVkLTkxOWYtY2ZlYTlhOTU2NDAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ![Image](https://github.com/user-attachments/assets/84e60ea4-5ce5-487d-8b3f-384fbdccee7b)
-
+file:///C:/Users/HP/Downloads/LioCinema-Jotstar-OTT-Platform-Analysis.pdf
 ## 📊 Key Metrics at a Glance
 
 -Total Users: 228,000 (+22.1% Growth)

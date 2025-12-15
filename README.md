@@ -4,7 +4,8 @@
 ## 🎬 Project Overview
 This data analysis project, completed as part of the Codebasics Resume Project Challenge 14, provides a comprehensive strategic analysis of the merger between LioCinema and Jotstar, two prominent OTT platforms.
 
-LIVE Dashboard- https://app.powerbi.com/view?r=eyJrIjoiZWQ0NzI4ZjEtYjY2NS00MGVkLTkxOWYtY2ZlYTlhOTU2NDAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+LIVE Dashboard- [https://app.powerbi.com/view?r=eyJrIjoiZWQ0NzI4ZjEtYjY2NS00MGVkLTkxOWYtY2ZlYTlhOTU2NDAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+](https://app.powerbi.com/view?r=eyJrIjoiZDY5MDUxMjAtMDJlZC00YTk5LWE1OWItYWIzNzdlMDVlNDViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=306bc54d0828e10d515b)
 
 Video Presentation Youtube- https://youtu.be/P7FIkDQVqCM?si=5uuDB1yLysZkkW5N
 
